@@ -1,3 +1,2 @@
 # API
-Biblioteca de Funciones y tads
-*en proceso*
+Biblioteca de Funciones y tads - Finalizado
